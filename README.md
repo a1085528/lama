@@ -6,7 +6,7 @@ by Roman Suvorov, Elizaveta Logacheva, Anton Mashikhin,
 Anastasia Remizova, Arsenii Ashukha, Aleksei Silvestrov, Naejin Kong, Harshith Goka, Kiwoong Park, Victor Lempitsky.
 
 <p align="center" "font-size:30px;">
-  🔥🔥🔥
+  🔥
   <br>
   <b>
 LaMa generalizes surprisingly well to much higher resolutions (~2k❗️) than it saw during training (256x256), and achieves the excellent performance even in challenging scenarios, e.g. completion of periodic structures.</b>
